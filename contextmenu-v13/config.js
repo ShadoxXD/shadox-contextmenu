@@ -6,7 +6,7 @@ module.exports = {
     sunucuID: "",
     
     roles: {
-        muted: "880503212375961620",
+        muted: "",
     }, 
 
     embed: {
