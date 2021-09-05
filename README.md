@@ -3,5 +3,5 @@ v13ü yavaş yavaş öğrenmeye başladım basit bir contextmenu kendinize göre
 
 starlamayı unutmayınn
 
-https://discord.gg/serendia
+
 
